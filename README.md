@@ -1,5 +1,5 @@
 ### Hi! I'm Kayky 👋
-- 🌱 Learning ReactJS and Java
+- 🌱 Learning ReactJS and React Native
 - 📫 Contact email: kaykylima924@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I love playing action games
